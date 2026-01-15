@@ -137,7 +137,7 @@ setTimeout(() => {
    drawMiniChart('miniChart1', '#00ffcc');
    drawMiniChart('miniChart2', '#ff0080');
    drawMiniChart('miniChart3', '#00ccff');
-   drawMiniChart('miniChart4', '#ffcc00');
+   drawMiniChart('miniChart4', '#2b00ff');
    drawMiniChart('miniChart5', '#ff6b6b');
    drawMiniChart('miniChart6', '#4ecdc4');
 }, 100);
